@@ -1,0 +1,66 @@
+table, th, td {
+  border: 1px solid;
+  text-align: center;
+  
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #00274D;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.boxs{
+  
+    border-radius: 40px;
+    margin: 30px  ;
+    text-align: center;
+    position: relative;
+ 
+    box-shadow: 10px 10px #00274D;
+    border:2px solid rgb(16, 15, 15);
+  
+    background-color: rgb(236, 243, 243);
+    padding: 100px;
+}
+.footer{
+  display: inline;
+  text-align: center;
+}
+.logo{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #E3F2FD;
+  display: block;
+  color: #00274D;
+  
+  padding: 14px;
+  text-decoration: none;
+}
+.student_name{
+  margin: 0;
+  padding: 0;
+  background-color: #E3F2FD;
+
+}
