@@ -1,7 +1,7 @@
 
 # 🎓 Student Course Registration System
 
-A PHP & MySQL web application that allows students to register for courses and manage their selections, while admins can add available courses for registration.
+A PHP & MySQL web application that allows students to register for courses and manage their selections, while admins can add available courses for registration and use UML, flowchart , pseudocode , activity diagram and ERD .
 
 ## 📌 Features
 
